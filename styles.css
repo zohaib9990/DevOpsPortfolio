@@ -3,11 +3,12 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     line-height: 1.6;
+    background-color: #f5f3f9; /* Light purple background */
 }
 
 /* Header */
 header {
-    background-color: #333;
+    background-color: #6a0dad; /* Deep purple */
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -42,13 +43,18 @@ section {
 }
 
 h2 {
-    color: #333;
+    color: #6a0dad; /* Deep purple */
+}
+
+a {
+    color: #6a0dad;
+    text-decoration: none;
 }
 
 /* Footer */
 footer {
     text-align: center;
-    background-color: #333;
+    background-color: #6a0dad; /* Deep purple */
     color: #fff;
     padding: 1rem 0;
 }
